@@ -28,7 +28,7 @@ namespace Test
                 {
                     palabraConEspacio += fraseSinCodificar[i - 1];
                     listaSinCodificar.Add(palabraConEspacio);
-                    //palabraConEspacio = string.Empty;
+                    palabraConEspacio = string.Empty;
                 }
                 else
                 {
