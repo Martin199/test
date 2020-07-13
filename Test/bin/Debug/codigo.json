@@ -1,0 +1,118 @@
+
+  [
+    {
+      "letra": "a", 
+      "codigo": 1000 
+    },
+    {
+      "letra": "b",
+      "codigo": 1100
+    },
+    {
+      "letra": "c",
+      "codigo": 1200
+    },
+    {
+      "letra": "d",
+      "codigo": 1300
+    },
+    {
+      "letra": "e",
+      "codigo": 1400
+    },
+    {
+      "letra": "f",
+      "codigo": 1500
+    },
+    {
+      "letra": "g",
+      "codigo": 1600
+    },
+    {
+      "letra": "h",
+      "codigo": 1700
+    },
+    {
+      "letra": "i",
+      "codigo": 1800
+    },
+    {
+      "letra": "j",
+      "codigo": 1900
+    },
+    {
+      "letra": "k",
+      "codigo": 2000
+    },
+    {
+      "letra": "l",
+      "codigo": 2100
+    },
+    {
+      "letra": "m",
+      "codigo": 2200
+    },
+    {
+      "letra": "n",
+      "codigo": 2300
+    },
+    {
+      "letra": "ñ",
+      "codigo": 2400
+    },
+    {
+      "letra": "o",
+      "codigo": 2500
+    },
+    {
+      "letra": "p",
+      "codigo": 2600
+    },
+    {
+      "letra": "q",
+      "codigo": 2700
+    },
+    {
+      "letra": "r",
+      "codigo": 2800
+    },
+    {
+      "letra": "s",
+      "codigo": 2900
+    },
+    {
+      "letra": "t",
+      "codigo": 3000
+    },
+    {
+      "letra": "u",
+      "codigo": 3100
+    },
+    {
+      "letra": "v",
+      "codigo": 3200
+    },
+    {
+      "letra": "w",
+      "codigo": 3300
+    },
+    {
+      "letra": "x",
+      "codigo": 3400
+    },
+    {
+      "letra": "y",
+      "codigo": 3500
+    },
+    {
+      "letra": "z",
+      "codigo": 3600
+    },
+    {
+      "letra": " ",
+      "codigo":  3700
+    }
+
+
+  ]
+

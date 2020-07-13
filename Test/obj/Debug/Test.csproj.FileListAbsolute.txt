@@ -1,0 +1,10 @@
+C:\Users\marti\OneDrive\Escritorio\Test\Test\bin\Debug\Test.exe.config
+C:\Users\marti\OneDrive\Escritorio\Test\Test\bin\Debug\Test.exe
+C:\Users\marti\OneDrive\Escritorio\Test\Test\bin\Debug\Test.pdb
+C:\Users\marti\OneDrive\Escritorio\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\Test\Test\obj\Debug\Test.exe
+C:\Users\marti\OneDrive\Escritorio\Test\Test\obj\Debug\Test.pdb
+C:\Users\marti\OneDrive\Escritorio\Test\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marti\OneDrive\Escritorio\Test\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marti\OneDrive\Escritorio\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\marti\OneDrive\Escritorio\Test\Test\bin\Debug\codigo.json
